@@ -1,0 +1,40 @@
+body{
+    background-color: dimgray;
+    font-size: 20px;
+}
+span{
+    color: brown;
+    background-color: black;
+    border-radius: 5px;
+    padding: 4px;
+}
+.first, .second, .third{
+    background-color: grey;
+}
+button{
+    background-color:palegreen;
+    border: 0;
+    height: 25px;
+    color: grey;
+}
+h1{
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+}
+nav{
+    background-color: grey;
+    padding-left: 20px;
+}
+.navarea{
+    width: 400px;
+}
+.contact{
+    display: block;
+}
+footer{
+    margin-left: 35%;
+}
+legend{
+    background-color: brown;
+}
